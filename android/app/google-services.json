@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815980238965",
+    "project_id": "crud-notes-2ed6b",
+    "storage_bucket": "crud-notes-2ed6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815980238965:android:524f0e4179dc47a91f003c",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815980238965-q77ab2e997vehb7ve04s7ikv3ht115sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA23AZVINDQMquUzWkdSVZSahnbBBvpITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815980238965-q77ab2e997vehb7ve04s7ikv3ht115sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
